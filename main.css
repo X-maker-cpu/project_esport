@@ -1,0 +1,111 @@
+div{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+h2{
+    color: rgb(17, 17, 17);
+}
+
+.imo{
+    display: flex;
+}
+
+.tablink{
+    color: rgb(250, 248, 248);
+    background-color: transparent;
+    border: none;
+}
+
+body{
+    font-family: "open sens";
+    display: grid;
+    place-content: center;
+    
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#add_todo_btn{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    border: none;
+    padding: 10px;
+    align-content: center;
+    background-color: rgb(206, 160, 62);
+    color: rgb(15, 15, 15);
+    font-size: 15px;
+}
+
+.todo_element{
+    display: flex;
+    gap: 10px;
+    width: 250px;
+    justify-content: space-between;
+    border: 1px solid gainsboro;
+    padding-inline-start: 5px;
+    border-radius: 10px;
+}
+
+.todos{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.icon{
+    display: flex;
+    color: rgb(3, 3, 3);
+}
+
+.tabs{
+    display: flex;
+    background-color: deeppink;
+    gap: 50px;
+    border-radius: 50px;
+    overflow-y: scroll;
+    
+}
+
+.video{
+    display: flex;
+    gap: 20px;
+}
+
+.button{
+    background-color: transparent;
+}
+
+.panel{
+   
+    margin-top: 190px;
+   
+}
+
+footer{
+    padding-bottom: 20px;
+    display: flex;
+    border-radius: 10px;
+    
+}
+
+.links{
+    display: flex;
+    gap: 120px;
+}
+
+.presentation{
+    height: 185px;
+    width: 174px;
+    display: flex;
+}
+
+
+
+
+

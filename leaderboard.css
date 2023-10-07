@@ -1,0 +1,39 @@
+.tables, th, td {
+    border: 1px solid;
+    width: 50%;
+    place-items: center;
+   margin-left: 27%;
+    background-color: rgb(135, 188, 204);
+} 
+
+
+
+
+  .title_desc{
+   place-items: center;
+   width: 50%;
+
+  
+  }
+
+
+  .title_desc>img{
+    width: 96vw;
+    height: 170px;
+    display: grid;
+    place-items: center;
+  }
+
+.headings{
+    padding-left: 629px;
+    color: aliceblue;
+}
+
+#title{
+    text-align: center;
+    color: rgb(173, 179, 123); 
+    font-family: fantasy;
+    font-size: 60px;
+    font-style: italic;
+    
+}

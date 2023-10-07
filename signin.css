@@ -1,0 +1,40 @@
+body{
+    display: grid;
+    place-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    width: 50%;
+    background-image: url('https://www.fcbarcelona.com/photo-resources/2023/04/25/7dfbaa7a-3fc6-4ef9-95ce-a7b731fb6ec4/3200x2000-SPOTIFY_PLAYLIST-rolfo_dembele.jpg?width=1200&height=750');
+    padding: 15px;
+    color: whitesmoke;
+    font-size: large;
+   
+}
+
+.itro > img{
+    height: 40rem;
+    width: 100%;
+}
+
+.input_feild{
+    display: flex;
+    flex-direction: column;
+}
+
+.input_feild >input{
+    height: 2rem;
+}
+
+button{
+    border: none;
+    padding: 10px;
+    background-color: aqua;
+    color: white;
+    border-radius: 8px;
+}
+
+
+
