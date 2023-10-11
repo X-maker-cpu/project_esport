@@ -20,7 +20,7 @@ h2{
 body{
     font-family: "open sens";
     display: grid;
-    place-content: center;
+    background-color: goldenrod;
     
 }
 
@@ -66,9 +66,11 @@ body{
 .tabs{
     display: flex;
     background-color: deeppink;
-    gap: 50px;
+    gap: 150px;
     border-radius: 50px;
     overflow-y: scroll;
+    
+    
     
 }
 
@@ -79,7 +81,13 @@ body{
 
 .button{
     background-color: transparent;
+    border: none;
+    font-family: fantasy;
+    
+    
+
 }
+
 
 .panel{
    
@@ -104,6 +112,8 @@ footer{
     width: 174px;
     display: flex;
 }
+
+
 
 
 

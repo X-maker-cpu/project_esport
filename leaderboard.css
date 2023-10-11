@@ -2,8 +2,13 @@
     border: 1px solid;
     width: 50%;
     place-items: center;
-   margin-left: 27%;
-    background-color: rgb(135, 188, 204);
+    margin-left: 27%;
+    background-color: rgb(235, 143, 192);
+    place-items: center;
+    border-radius: 50px;
+    font-family: fantasy;
+    color: rgb(114, 99, 59);
+    text-align: center;
 } 
 
 
@@ -11,7 +16,7 @@
 
   .title_desc{
    place-items: center;
-   width: 50%;
+   
 
   
   }
@@ -25,8 +30,11 @@
   }
 
 .headings{
-    padding-left: 629px;
-    color: aliceblue;
+  text-align: center;
+  color: rgb(173, 179, 123); 
+  font-family: fantasy;
+  font-size: 40px;
+  font-style: italic; 
 }
 
 #title{
@@ -37,3 +45,4 @@
     font-style: italic;
     
 }
+
